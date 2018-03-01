@@ -36,7 +36,7 @@
   without an explicit citation in the book are by the author, and are released
   under the MIT license.
   
-  The code for Volumes 1 and 2 are each in their own GitHub repo:
+  The code for Volumes 1 and 2 are each in their own GitHub repo: 
   
 ### Notebooks for Volume 1:
   * https://github.com/blueberrymusic/DeepLearningBookCode-Volume1
