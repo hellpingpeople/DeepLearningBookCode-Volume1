@@ -90,3 +90,9 @@ download them at https://www.amazon.com/kindle-dbs/fd/kcp
 ### Figures for Volume 2:
   * https://github.com/blueberrymusic/DeepLearningBookFigures-Volume2
 
+# OTHER RESOURCES
+
+  Any other resources will be available in their own repository.
+
+### Other Resources:
+  * https://github.com/blueberrymusic/DeepLearningBook-Resources
